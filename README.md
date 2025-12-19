@@ -120,13 +120,13 @@ The package includes HMIS-compliant forms:
 Add this content package to your distribution's `distro.properties`:
 
 ```properties
-content.icrccontentpackage=${icrccontentpackage.version}
+content.icrc=${icrc-content.version}
 ```
 
 ## Directory Structure
 
 ```
-icrccontentpackage/
+icrc/
 ├── pom.xml                 # Maven build configuration
 ├── assembly.xml            # Package assembly descriptor
 ├── content.properties      # Package metadata and dependencies
