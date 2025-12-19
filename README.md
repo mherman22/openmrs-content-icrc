@@ -97,22 +97,6 @@ The package includes HMIS-compliant forms:
 - MCH forms (Antenatal, Maternity, Postnatal)
 - And many more...
 
-## Requirements
-
-### Platform
-- OpenMRS >= 2.4.0
-
-### Backend Modules
-- FHIR2 >= 1.8.0
-- Webservices REST >= 2.42.0
-- Initializer >= 2.5.2
-- O3 Forms >= 2.2.0
-- UgandaEMR Module >= 4.0.0
-
-### Frontend Modules
-- @openmrs/esm-patient-chart-app >= 8.1.0
-- @openmrs/esm-form-engine-app >= 2.0.0
-
 ## Installation
 
 ### Using Maven
