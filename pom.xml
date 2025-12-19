@@ -2,22 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.openmrs.content</groupId>
-    <artifactId>icrccontentpackage</artifactId>
+    <artifactId>icrc</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Icrccontentpackage</name>
+    <name>Icrc</name>
     <description>mainly for testing, this content has been gotten from the ugandaemr metadata repository. Thanks in advance</description>
     <developers>
         <developer>
-            <name>OpenMRS</name>
-            <organization>OpenMRS</organization>
+            <name>mherman22</name>
+            <organization>ICRC</organization>
             <organizationUrl>http://openmrs.org</organizationUrl>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:openmrs/openmrs-content-icrccontentpackage.git</connection>
-        <developerConnection>scm:git:git@github.com:openmrs/openmrs-content-icrccontentpackage.git</developerConnection>
-        <url>https://github.com/openmrs/openmrs-content-icrccontentpackage.git</url>
+        <connection>scm:git:git@github.com:openmrs/openmrs-content-icrc.git</connection>
+        <developerConnection>scm:git:git@github.com:openmrs/openmrs-content-icrc.git</developerConnection>
+        <url>https://github.com/openmrs/openmrs-content-icrc.git</url>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
